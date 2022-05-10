@@ -3,7 +3,7 @@
 
 # Terraform Associate
 
-![Terraform Associate -  Treinamento para Certificação](img/logo.png)
+![Terraform Associate -  Treinamento para Certificação](img/logo2.png)
 
 <p>
 <div align="center">

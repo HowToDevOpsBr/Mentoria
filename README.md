@@ -1,7 +1,7 @@
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 
-# Mentoria DevOps - HowToDevOps 
+# Mentoria DevOps - Do Commit Ao Deploy
 
 ![Terraform Associate -  Treinamento para Certificação](img/logo2.png)
 

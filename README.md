@@ -25,21 +25,21 @@
 
 ## 📝 Conteúdo Programático :
 
-- [] Linux - Comandos Básicos
-- [] Entendendo Git
-- [] Ferramentas de Build
-- [] Cloud Computing
-- [] Ferramentas de Build
-- [] Artefatos
-- [] Containers
-- [] CI/CD
-- [] Amazon Web Services - Básico
-- [] Microsoft Azure Cloud - Básico
-- [] Kubernetes
-- [] Kubernetes No Azure
-- [] Kubernetes No AWS
-- [] Terraform
-- [] Ansible
+- [ ] Linux - Comandos Básicos
+- [ ] Entendendo Git
+- [ ] Ferramentas de Build
+- [ ] Cloud Computing
+- [ ] Ferramentas de Build
+- [ ] Artefatos
+- [ ] Containers
+- [ ] CI/CD
+- [ ] Amazon Web Services - Básico
+- [ ] Microsoft Azure Cloud - Básico
+- [ ] Kubernetes
+- [ ] Kubernetes No Azure
+- [ ] Kubernetes No AWS
+- [ ] Terraform
+- [ ] Ansible
 
 
 

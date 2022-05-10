@@ -3,7 +3,7 @@
 
 # Terraform Associate
 
-![Terraform Associate -  Treinamento para Certificação](https://nahuelhernandez.com/img/2020/06/terraform.png)
+![Terraform Associate -  Treinamento para Certificação](img/logo.png)
 
 <p>
 <div align="center">

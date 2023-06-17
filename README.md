@@ -1,7 +1,7 @@
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 
-# Mentoria DevOps - Do Commit Ao Deploy
+# Mentoria - Engenharia de Plataformas
 
 ![Terraform Associate -  Treinamento para Certificação](img/logo2.png)
 
@@ -25,21 +25,65 @@
 
 ## 📝 Conteúdo Programático :
 
-- [ ] Linux - Comandos Básicos
-- [ ] Entendendo Git
-- [ ] Ferramentas de Build
-- [ ] Cloud Computing
-- [ ] Ferramentas de Build
-- [ ] Artefatos
-- [ ] Containers
-- [ ] CI/CD
-- [ ] Amazon Web Services - Básico
-- [ ] Microsoft Azure Cloud - Básico
-- [ ] Kubernetes
-- [ ] Kubernetes No Azure
-- [ ] Kubernetes No AWS
-- [ ] Terraform
-- [ ] Ansible
+Introdução à Engenharia de Plataformas
+
+Definição e conceitos básicos
+ - Importância da Engenharia de Plataformas
+ - Papel do Platform Engineer
+ - Arquitetura de Plataformas
+
+Microservices e arquitetura baseada em serviços
+ - Containerização (Docker) e orquestração (Kubernetes)
+ - Padrões de design para plataformas escaláveis e resilientes
+ - Automação e provisionamento de infraestrutura
+ - CI/CD e DevOps em Plataformas
+
+Integração Contínua (CI) e Entrega Contínua (CD)
+ - Automação de pipelines de entrega
+ - Ambientes de desenvolvimento e testes
+ - Monitoramento e logging em ambientes de plataforma
+ - Gestão de Dados em Plataformas
+
+Armazenamento e persistência de dados
+ - Bancos de dados distribuídos
+ - Processamento em lote e em tempo real
+ - Big Data e análise de dados
+ - Segurança em Plataformas
+
+Práticas de segurança em ambientes de plataforma
+ - Controle de acesso e gestão de identidade
+ - Monitoramento de segurança
+ - Gerenciamento de chaves e certificados
+ - Escalabilidade e Resiliência em Plataformas
+
+Estratégias de escalabilidade horizontal e vertical
+ - Balanceamento de carga e distribuição de tráfego
+ - Estratégias de cache e CDN
+ - Tolerância a falhas e recuperação de desastres
+ - Automação e Infraestrutura como Código
+
+Automação de implantação e configuração
+- Infraestrutura como Código (IaC)
+ - Ferramentas populares (Terraform, Ansible, Chef, Puppet)
+ - Versionamento e controle de configuração
+ - Gestão e Monitoramento de Plataformas
+
+Métricas e monitoramento de desempenho
+ - Alarmes e alertas
+ - Análise de logs e depuração de problemas
+ - Gerenciamento de capacidade e dimensionamento
+ - Práticas Avançadas em Engenharia de Plataformas
+
+Gerenciamento de configuração em larga escala
+ - Automação de testes e garantia de qualidade
+ - Continuous Deployment e Blue/Green Deployments
+ - Estratégias de migração e evolução de plataforma
+ - Desafios e Tendências em Engenharia de Plataformas
+
+Desafios comuns e como superá-los
+ - Plataformas em nuvem e arquiteturas serverless
+ - Microsserviços e orquestração de contêineres
+ - Automação, IA e Machine Learning em Plataformas
 
 
 
